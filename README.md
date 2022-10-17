@@ -1,7 +1,7 @@
 # Sessions
-This repo will contain material from session held by IEEE Future University in Egypt Student Branch
+This repo will contain material from sessions held by IEEE Future University in Egypt Student Branch
 
-Please make use of it for your learning 
+Please make use of it for your learning.  
 Follow us on Facebook, Instagram, Linkedin and Youtube for more: @ieee.fue
 
 IEEE Future University in Egypt Student Branch
